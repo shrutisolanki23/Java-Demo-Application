@@ -1,7 +1,7 @@
 node{
       
       stage('SCM Checkout'){
-         git 'https://github.com/rajnikhattarrsinha/Java-Demo-Application.git'
+         git 'https://github.com/shrutisolanki23/Java-Demo-Application.git'
       }
       
       stage('Build'){
